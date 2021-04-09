@@ -1,0 +1,26 @@
+<%= form_with model: @post, local: true do |f|%>
+<%= render 'shared/error_messages', model: f.object %>
+  <div class="field">
+    <%= f.label :place, "道路名" %><br />
+    <%= f.text_field :place, id:"prototype_title" %>
+  </div>
+
+  <div class="field">
+    <%= f.label :time, "時間帯" %><br />
+    <%= f.text_field :time, class: :form__text, id:"prototype_catch_copy" %>
+  </div>
+
+  <div class="field">
+    <%= f.label :more, "もっと詳しく" %><br />
+    <%= f.text_area :more, class: :form__text, id:"prototype_concept" %>
+  </div>
+
+  <div class="field">
+    <%= f.label :image, "画像" %><br />
+    <%= f.file_field :image, id:"prototype_image" %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit "保存する", class: :form__btn  %>
+  </div>
+<% end %>

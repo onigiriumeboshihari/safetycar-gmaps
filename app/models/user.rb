@@ -10,4 +10,6 @@ class User < ApplicationRecord
     validates :place
     validates :profile
   end
+
+  has_many :posts
 end
