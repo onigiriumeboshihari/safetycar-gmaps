@@ -1,4 +1,5 @@
 <%= form_with model: @post, local: true do |f|%>
+<%= render 'shared/error_messages', model: f.object %>
   <div class="field">
     <%= f.label :place, "道路名" %><br />
     <%= f.text_field :place, id:"prototype_title" %>
@@ -15,8 +16,8 @@
   </div>
 
   <div class="field">
-    <%= f.label :hoge, "画像" %><br />
-    <%= f.file_field :hoge, id:"prototype_image" %>
+    <%= f.label :image, "画像" %><br />
+    <%= f.file_field :image, id:"prototype_image" %>
   </div>
 
   <div class="actions">
