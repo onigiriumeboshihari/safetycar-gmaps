@@ -1,3 +1,71 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script
+    src="http://maps.google.com/maps/api/js?key=<%= ENV['GOOGLEMAPS_JAVASCRIPT_KEY']%>">
+    </script>
+    <style>
+      html { height: 100% }
+      body { height: 100% }
+      #map { height: 100%; width: 100%}
+    </style>
+  </head>
+
+  <body>
+  <div id="map"></div>
+
+  <script>
+  // トップページ表示 //
+  var MyLatLng = new google.maps.LatLng(35.6811673, 139.7670516);
+  var Options = {
+    zoom: 15,
+    center: MyLatLng,
+    mapTypeId: 'roadmap'
+  };
+  var map = new google.maps.Map(document.getElementById('map'), Options);
+
+  // 国会議事堂前通り //
+  var latlng = new google.maps.LatLng(35.6769673, 139.7434516);
+  var marker = new google.maps.Marker({
+    position: latlng,
+    map: map
+  });
+
+  // 皇居外苑通り //
+  var latlng = new google.maps.LatLng(35.6808673, 139.7586516);
+  var marker = new google.maps.Marker({
+    position: latlng,
+    map: map
+  });
+
+  const box = '<div class="box">' +
+              '<%= link_to "/posts/1" do %>' +
+                '<div class="card__img">' +
+                  '<%= image_tag "logo.png" %>' +
+                '<div class="place">' +
+                  '<%= "皇居外苑通り" %>' +
+                '<div class="time">' +
+                  '<%= "8:15" %>' +
+              '<% end %>'
+            '</div>'
+  const infowindow = new google.maps.InfoWindow({
+    content: box
+  });
+  infowindow.open(map, marker);  
+  
+
+  // 鉄砲洲通り //
+  var latlng = new google.maps.LatLng(35.6738673, 139.7800516);
+  var marker = new google.maps.Marker({
+    position: latlng,
+    map: map
+  });
+
+</script>
+
+</body>
+</html>
+
 <main class="main">
   <div class="inner">
 
