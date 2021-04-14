@@ -37,7 +37,7 @@ a {
 /* ヘッダー */
 
 .header {
-  background-color: #a209fa;
+  background-color: #ffdcf5;
   margin-bottom: 48px;
   padding: 20px 0;
 
@@ -58,23 +58,23 @@ a {
   display: inline-block;
   padding: 0.4em 1.6em;
   font-size: 0.8em;
-  color: #f2f557;
+  color: #fa78dc;
   text-decoration: none;
   user-select: none;
-  border: 1px #c60df5 solid;
+  border: 1px #fa78dc solid;
   border-radius: 3px;
   transition: 0.4s ease;
 }
 .nav__btn:hover{
-  color: rgb(148, 227, 233);
-  background: #f50606;
+  color: #ffffff;
+  background: #ff3cdf;
 }
 
 .nav__logout{
   display: inline-block;
   padding: 0.4em 1.6em;
   font-size: 0.8em;
-  color: #87CEFA;
+  color: #fa78dc;
   text-decoration: none;
   user-select: none;
 }
@@ -106,8 +106,8 @@ a {
   color: #fff;
   text-decoration: none;
   user-select: none;
-  background: #010922;
-  border: 1px #f35eec solid;
+  background: #fa78dc;
+  border: 1px #ffffff solid;
   border-radius: 3px;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.14), 0 1px 2px 0 rgba(0, 0, 0, 0.12);
   transition: 0.2s ease;
@@ -125,6 +125,7 @@ a {
 }
 .greeting__link{
   text-decoration: underline;
+  margin-left: 20px;
 }
 .page-heading {
   font-size: 30px;
