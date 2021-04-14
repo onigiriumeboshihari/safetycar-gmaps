@@ -3,100 +3,94 @@
 
 ## どんなアプリ？
 
-まずは地図上の投稿をチェック。
+まずは地図上の投稿をチェック！
 
-例えば、８時15分の外苑通りでは、車の流れの速度が約40km/h、大きな車両が通らないことがわかります。
+例えば、平日８時15分の外苑通りでは、車の流れの速度が約40km/h、大型車両が通ってないことがわかります。
+
+このアプリでは、交通事故を軽減のための情報をみんなで投稿します。
+
+幼稚園、スイミングスクール等、お子様の送迎をする方へ、交通事故のリスク対策ができるアプリです。
 
 
 
-***デモ***
+## 何が便利？
 
-![デモ](https://image-url.gif)
+車の流れが遅い通りをチェックできます！
+
+車の流れが速すぎて、法定速度で走っているとハラハラすることを少なくします。
+
+大型車両が少ない通りをチェックできます！
+
+大きなトラックとすれ違ってハラハラすることを少なくします。
+
 
 ## 機能
 
-- 画像投稿機能
-- 
-- 機能2
-- 機能3
-- ...
+| 機能一覧           | できること                                        |
+| ----------------- | --------------------------------------------- |
+| ユーザー管理      | サインアップ、ログイン、ログアウト                     |
+| ユーザー詳細      | ユーザーのプロフィール、投稿一覧チェック！              |
+| 投稿　　　　　　　 | 画像、撮影時間、流れのスピード、大型車両の通行量等を投稿！ |
+| 投稿一覧         | よく運転する通りの情報を地図上でチェック！              |
+| 投稿詳細・編集・削除 | 投稿内容の確認・編集                             |
+| コメント           | 気になる投稿にはコメントで質問！                     |
 
 他の機能はこちらを参照して下さい。`awesome-tool --help`.
 
 ## 必要要件
 
-- 要件
-- 要件
-- 要件
-- ...
+- トップページ地図上でマーカーが表示されている
+- マーカーをクリックすると投稿内容が確認できる
+- 投稿ボタンをクリックすると投稿できる
+- コメントボタンをクリックするとコメントが投稿できる
+
+他の必要要件はこちらを参照して下さい。
 
 ## 使い方
 
-1. 使い方
-2. 使い方
-3. 使い方
+1. トップページからサインアップ・ログイン
+2. トップページから投稿
+3. トップページから投稿を確認
+4. 投稿詳細ページからコメント
+5. ユーザー名からユーザー詳細を確認
 
 ## インストール
 
 ```
-$ git clone https://github.com/TomoakiTANAKA/awesome-tool
-$ cd awesome-tool
-$ sh setup.sh
-$ ~do anything~
+$ git clone https://github.com/onigiriumeboshihari/safetycar-gmaps.git
+$ cd safetycar-gmaps
+$ bundle install
+$ rails db:create
+$ rails db:migrate
+$ rails s
+http:localhost:3000
+
 ```
 
 ## テスト
 
-1. 使い方
-2. 使い方
+- ID/Pass
+ID: yamada
+Pass: 34824
+
+- テスト用アカウント等
+投稿者用
+メールアドレス: hanako@email
+パスワード: testpass
+閲覧者用
+メールアドレス名: taro@email
+パスワード: testpass
 3. 使い方
 
-## デプロイ
+## 開発環境
 
-1. デプロイ
-2. デプロイ
-3. デプロイ
-
-## その他
-
-その他その他その他その他
-その他その他その他その他
-その他その他その他その他
-その他その他その他その他
-
-## 作者
-
-[@TanakanoAnchan](https://twitter.com/TanakanoAnchan)
-mail to: xxxx@mail.com
-
-## ライセンス
-
-[MIT](http://TomoakiTANAKA.mit-license.org)</blockquote>
-
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- VScode
+- Ruby 2.6.5
+- Rails 6.0.3.4
+- mysql2 0.5.3
+- JavaScript
+- gem 3.0.3
+- heroku 7.46.0
 
 # DB 設計
 
