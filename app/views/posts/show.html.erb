@@ -32,13 +32,13 @@
       </div>
       <div class="prototype__comments">
         <% if user_signed_in? %>
-          <%= form_with model: [@post, @comment], local: true do |f| %>
+          <%= form_with model: [@post, @comment], id: "comment_form", local: true do |f| %>
             <div class="field">
               <%= f.label :text, "コメント" %><br />
               <%= f.text_area :text, id:"comment_text" %>
             </div>
             <div class="actions">
-              <%= f.submit "送信する", class: :form__btn  %>
+              <%= f.submit "送信する", class: :form__btn, id: "submit"  %>
             </div>
           <% end %> 
         <% end %> 
