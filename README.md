@@ -46,14 +46,35 @@ https://docs.google.com/spreadsheets/d/1NuQulUwFqS7QxpFDnE5fzaExEepKpEp_-1yTyHN6
 
 # 1. トップページ右上「Sign Up」からサインアップ!
 [![Image from Gyazo](https://i.gyazo.com/ae42eb1de52ea0bfe9c02e6bf4b67ea2.png)](https://gyazo.com/ae42eb1de52ea0bfe9c02e6bf4b67ea2)
-# 2. 「Let's 投稿」から投稿!
+# 2. 「Let's 投稿」から口コミ投稿!
 [![Image from Gyazo](https://i.gyazo.com/f3bffb8c7039eba49c535b859fc14592.png)](https://gyazo.com/f3bffb8c7039eba49c535b859fc14592)
-# 3. マップから投稿をチェック!そのままコメント!
+# 3. マップから口コミをチェック!そのままコメント!
 [![Image from Gyazo](https://i.gyazo.com/6bd8a6fd4456f7829a09b606c2babc5a.gif)](https://gyazo.com/6bd8a6fd4456f7829a09b606c2babc5a)
-# 4. ユーザー名からユーザー詳細を確認
+# 4. ユーザープロフィールから過去の口コミをすベてチェック！
 [![Image from Gyazo](https://i.gyazo.com/39d0c656ab7cd7ffb88c6b0e996a7775.jpg)](https://gyazo.com/39d0c656ab7cd7ffb88c6b0e996a7775)
 
-## インストール
+#### テスト
+
+ID/Pass
+ID: SafetycarGmaps
+
+Pass: 34824
+
+テスト用アカウント等
+投稿者用
+
+メールアドレス: neko@email
+
+パスワード: testpass
+
+閲覧者用
+
+メールアドレス名: shirokuma@email
+
+パスワード: testpass
+
+
+##### インストール
 
 ```
 $ git clone https://github.com/onigiriumeboshihari/safetycar-gmaps.git
@@ -63,25 +84,10 @@ $ rails db:create
 $ rails db:migrate
 $ rails s
 http:localhost:3000
-
 ```
 
-## テスト
 
-- ID/Pass
-ID: yamada
-Pass: 34824
-
-- テスト用アカウント等
-投稿者用
-メールアドレス: hanako@email
-パスワード: testpass
-閲覧者用
-メールアドレス名: taro@email
-パスワード: testpass
-3. 使い方
-
-## 開発環境
+###### 開発環境
 
 - VScode
 - Ruby 2.6.5
@@ -91,9 +97,9 @@ Pass: 34824
 - gem 3.0.3
 - heroku 7.46.0
 
-# DB 設計
+##### DB 設計
 
-## users table
+###### users table
 
 | Column             | Type                | Options                 |
 |--------------------|---------------------|-------------------------|
@@ -104,12 +110,12 @@ Pass: 34824
 | place              | string              | null: false             |
 | profile            | text                | null: false             |
 
-### Association
+###### Association
 
 * has_many :posts
 * has_many :comments
 
-## posts table
+###### posts table
 
 | Column                              | Type       | Options           |
 |-------------------------------------|------------|-------------------|
@@ -118,12 +124,12 @@ Pass: 34824
 | more                                | text       | null: false       |
 | user                                | references | foreign_key: true |
 
-### Association
+###### Association
 
 - belongs_to :user
 - has_many :comments
 
-## comments table
+###### comments table
 
 | Column      | Type       | Options           |
 |-------------|------------|-------------------|
@@ -131,7 +137,7 @@ Pass: 34824
 | post        | references | foreign_key: true |
 | user        | references | foreign_key: true |
 
-### Association
+###### Association
 
 - belongs_to :post
 - belongs_to :user
