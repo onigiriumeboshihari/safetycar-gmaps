@@ -44,7 +44,7 @@ https://docs.google.com/spreadsheets/d/1NuQulUwFqS7QxpFDnE5fzaExEepKpEp_-1yTyHN6
 
 ## 利用方法
 
-###1. トップページ右上「Sign Up」からサインアップ・『Sign In』からサインイン
+### 1. トップページ右上「Sign Up」からサインアップ・『Sign In』からサインイン
 [![Image from Gyazo](https://i.gyazo.com/c743cc677597b45dbcc380cb21fb6107.png)](https://gyazo.com/c743cc677597b45dbcc380cb21fb6107)
 2. 「Let's 投稿」から投稿
 [![Image from Gyazo](https://i.gyazo.com/1b61cca37035e9504afb8091a3681bfe.png)](https://gyazo.com/1b61cca37035e9504afb8091a3681bfe)
