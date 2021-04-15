@@ -1,7 +1,7 @@
 # 危ない通りの口コミを投稿して安全マップ作成！「SafetycarGmaps」
 https://safetycar-gmaps.herokuapp.com/
 
-[![Image from Gyazo](https://i.gyazo.com/4d5c46161696b3b4b8bc7080cb779318.gif)](https://gyazo.com/4d5c46161696b3b4b8bc7080cb779318)
+[![Image from Gyazo](https://i.gyazo.com/02b2f5757e9ef61dcb3476f1c42a300e.gif)](https://gyazo.com/02b2f5757e9ef61dcb3476f1c42a300e)
 
 
 ## どんなアプリ？
