@@ -46,11 +46,11 @@ https://docs.google.com/spreadsheets/d/1NuQulUwFqS7QxpFDnE5fzaExEepKpEp_-1yTyHN6
 
 ### 1. トップページ右上「Sign Up」からサインアップ!
 [![Image from Gyazo](https://i.gyazo.com/c743cc677597b45dbcc380cb21fb6107.png)](https://gyazo.com/c743cc677597b45dbcc380cb21fb6107)
-2. 「Let's 投稿」から投稿!
+### 2. 「Let's 投稿」から投稿!
 [![Image from Gyazo](https://i.gyazo.com/1b61cca37035e9504afb8091a3681bfe.png)](https://gyazo.com/1b61cca37035e9504afb8091a3681bfe)
-3. マップから投稿をチェック!そのままコメント!
+### 3. マップから投稿をチェック!そのままコメント!
 [![Image from Gyazo](https://i.gyazo.com/4d5c46161696b3b4b8bc7080cb779318.gif)](https://gyazo.com/4d5c46161696b3b4b8bc7080cb779318)
-4. ユーザー名からユーザー詳細を確認
+### 4. ユーザー名からユーザー詳細を確認
 [![Image from Gyazo](https://i.gyazo.com/3e6f02af3f91d34c5106301053c98dcc.jpg)](https://gyazo.com/3e6f02af3f91d34c5106301053c98dcc)
 
 ## インストール
