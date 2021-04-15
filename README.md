@@ -1,4 +1,4 @@
-# 通りのクチコミを投稿して安全マップ作成アプリ「SafetycarGmaps」
+# 通りのクチコミを投稿して安全マップ作成！「SafetycarGmaps」
 
 [![Image from Gyazo](https://i.gyazo.com/92cd25bdff674ef83881ed67fb1b85df.jpg)](https://gyazo.com/92cd25bdff674ef83881ed67fb1b85df)
 
