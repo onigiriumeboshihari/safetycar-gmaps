@@ -26,7 +26,7 @@ https://safetycar-gmaps.herokuapp.com/
 
 大きなトラックとすれ違ってハラハラすることを少なくします。
 
-GoogleMapsや、Honda「SAFETYMAP」ほど詳しいデータはありませんが、
+GoogleMapsや、Honda「SAFETY MAP」ほど詳しいデータはありませんが、
 
 毎日の通勤で感じる「通りの印象」をスピーディにチェックし、専用の安全ルートをカスタマイズできます！
 
@@ -48,12 +48,16 @@ https://docs.google.com/spreadsheets/d/1NuQulUwFqS7QxpFDnE5fzaExEepKpEp_-1yTyHN6
 
 ## 利用方法
 
-1. トップページ右上「SignUp」からサインアップ・『SignIn』からサインイン
+1. トップページ右上「Sign Up」からサインアップ・『Sign In』からサインイン
 [![Image from Gyazo](https://i.gyazo.com/c743cc677597b45dbcc380cb21fb6107.png)](https://gyazo.com/c743cc677597b45dbcc380cb21fb6107)
-2. 「Let's投稿」から投稿
-4. トップページから投稿を確認
-5. 投稿詳細ページからコメント
-6. ユーザー名からユーザー詳細を確認
+2. 「Let's 投稿」から投稿
+https://gyazo.com/1b61cca37035e9504afb8091a3681bfe
+3. トップページから投稿をチェック
+https://gyazo.com/26742cd805adf9b4e3f63baaa262004f
+4. 投稿詳細ページからコメント
+[![Image from Gyazo](https://i.gyazo.com/402df45eed716be85b58ebf0e8c5e949.png)](https://gyazo.com/402df45eed716be85b58ebf0e8c5e949)
+5. ユーザー名からユーザー詳細を確認
+[![Image from Gyazo](https://i.gyazo.com/3e6f02af3f91d34c5106301053c98dcc.jpg)](https://gyazo.com/3e6f02af3f91d34c5106301053c98dcc)
 
 ## インストール
 
