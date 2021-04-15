@@ -1,4 +1,5 @@
-# 危ない通りの口コミをチェック！「SafetycarGmaps」
+# 危ない通りの口コミをチェック！
+# 「SafetycarGmaps」
 https://safetycar-gmaps.herokuapp.com/
 
 [![Image from Gyazo](https://i.gyazo.com/c6c6b141281d1d34140c9dfe7c055ebe.gif)](https://gyazo.com/c6c6b141281d1d34140c9dfe7c055ebe)
@@ -12,7 +13,7 @@ https://safetycar-gmaps.herokuapp.com/
 
 このアプリでは、車の流れのスピードや、大型車両の通行量をみんなで投稿できます。
 
-お子様を幼稚園へ送迎するなど、交通事故のリスク対策のために「通りの口コミ」がチェックできるアプリです！
+**お子様を幼稚園へ送迎するなど、交通事故のリスク対策のために「通りの口コミ」がチェックできるアプリです！**
 
 
 
@@ -22,9 +23,9 @@ https://safetycar-gmaps.herokuapp.com/
 
 さらに大型車両が少ない通りをチェックできます！
 
-GoogleMapsや、Honda「SAFETY MAP」ほど詳しいデータはありませんが、
+GoogleMapsや、Honda「SAFETY MAP」ほど膨大なデータはありませんが、
 
-毎日の通勤で感じる「通りの印象」をスピーディにチェックし、安全ルートのカスタマイズをサポートします！
+**毎日の通勤で感じる「通りの印象」をスピーディにつかみ、安全なルートのカスタマイズをサポートします！**
 
 
 ## 使える機能
@@ -33,14 +34,12 @@ GoogleMapsや、Honda「SAFETY MAP」ほど詳しいデータはありません�
 | ----------------- | --------------------------------------------- |
 | ユーザー管理      | サインアップ、サインイン、サインアウト                     |
 | 投稿　　　　　　　 | 画像、口コミを投稿！ |
-| 投稿一覧         | みんなの投稿口コミは、マップ上からチェック！              |
-| コメント           | 気になる投稿にはコメントで質問！                     |
-| ユーザー詳細      | さらにユーザーのプロフィールから過去の投稿をまとめてチェック！              |
+| 投稿一覧         | みんなの投稿した口コミは、マップ上からチェック！              |
+| コメント           | 気になる口コミにはコメントで質問！                     |
+| ユーザー詳細      | さらにユーザーのプロフィールから過去の口コミをまとめてチェック！              |
 | 投稿を編集・削除 | 撮り直しの画像をアップデート！                             |
 
-もっと詳しく
-https://docs.google.com/spreadsheets/d/1NuQulUwFqS7QxpFDnE5fzaExEepKpEp_-1yTyHN6ypo/edit?pli=1#gid=282075926
-（要件定義のスプレッドシートがチェックできます！）
+[要件定義のスプレッドシートからさらに詳しくチェックできます！](https://docs.google.com/spreadsheets/d/1NuQulUwFqS7QxpFDnE5fzaExEepKpEp_-1yTyHN6ypo/edit?pli=1#gid=282075926)
 
 ## 利用方法
 
@@ -50,29 +49,27 @@ https://docs.google.com/spreadsheets/d/1NuQulUwFqS7QxpFDnE5fzaExEepKpEp_-1yTyHN6
 [![Image from Gyazo](https://i.gyazo.com/f3bffb8c7039eba49c535b859fc14592.png)](https://gyazo.com/f3bffb8c7039eba49c535b859fc14592)
 # 3. マップから口コミをチェック!そのままコメント!
 [![Image from Gyazo](https://i.gyazo.com/6bd8a6fd4456f7829a09b606c2babc5a.gif)](https://gyazo.com/6bd8a6fd4456f7829a09b606c2babc5a)
-# 4. ユーザープロフィールから過去の口コミをすベてチェック！
+# 4. ユーザープロフィールから過去の口コミをまとめてチェック！
 [![Image from Gyazo](https://i.gyazo.com/39d0c656ab7cd7ffb88c6b0e996a7775.jpg)](https://gyazo.com/39d0c656ab7cd7ffb88c6b0e996a7775)
 
 #### テスト
 
+```
 ID/Pass
 ID: SafetycarGmaps
-
 Pass: 34824
-
 テスト用アカウント等
+```
+```
 投稿者用
-
 メールアドレス: neko@email
-
 パスワード: testpass
-
+```
+```
 閲覧者用
-
 メールアドレス名: shirokuma@email
-
 パスワード: testpass
-
+```
 
 ##### インストール
 
