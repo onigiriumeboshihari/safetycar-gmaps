@@ -1,7 +1,7 @@
 # 危ない通りの口コミをチェック！「SafetycarGmaps」
 https://safetycar-gmaps.herokuapp.com/
 
-[![Image from Gyazo](https://i.gyazo.com/02b2f5757e9ef61dcb3476f1c42a300e.gif)](https://gyazo.com/02b2f5757e9ef61dcb3476f1c42a300e)
+[![Image from Gyazo](https://i.gyazo.com/c6c6b141281d1d34140c9dfe7c055ebe.gif)](https://gyazo.com/c6c6b141281d1d34140c9dfe7c055ebe)
 
 
 ## どんなアプリ？
@@ -49,9 +49,9 @@ https://docs.google.com/spreadsheets/d/1NuQulUwFqS7QxpFDnE5fzaExEepKpEp_-1yTyHN6
 # 2. 「Let's 投稿」から投稿!
 [![Image from Gyazo](https://i.gyazo.com/f3bffb8c7039eba49c535b859fc14592.png)](https://gyazo.com/f3bffb8c7039eba49c535b859fc14592)
 # 3. マップから投稿をチェック!そのままコメント!
-[![Image from Gyazo](https://i.gyazo.com/4d5c46161696b3b4b8bc7080cb779318.gif)](https://gyazo.com/4d5c46161696b3b4b8bc7080cb779318)
-# 4. ユーザー名からユーザー詳細を確認
 [![Image from Gyazo](https://i.gyazo.com/6bd8a6fd4456f7829a09b606c2babc5a.gif)](https://gyazo.com/6bd8a6fd4456f7829a09b606c2babc5a)
+# 4. ユーザー名からユーザー詳細を確認
+[![Image from Gyazo](https://i.gyazo.com/39d0c656ab7cd7ffb88c6b0e996a7775.jpg)](https://gyazo.com/39d0c656ab7cd7ffb88c6b0e996a7775)
 
 ## インストール
 
