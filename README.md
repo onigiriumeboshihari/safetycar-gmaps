@@ -48,9 +48,9 @@ https://docs.google.com/spreadsheets/d/1NuQulUwFqS7QxpFDnE5fzaExEepKpEp_-1yTyHN6
 
 ## 利用方法
 
-1. トップページからサインアップ・サインイン
+1. トップページ右上「SignUp」からサインアップ・『SignIn』からサインイン
 [![Image from Gyazo](https://i.gyazo.com/c743cc677597b45dbcc380cb21fb6107.png)](https://gyazo.com/c743cc677597b45dbcc380cb21fb6107)
-3. トップページから投稿
+2. 「Let's投稿」から投稿
 4. トップページから投稿を確認
 5. 投稿詳細ページからコメント
 6. ユーザー名からユーザー詳細を確認
