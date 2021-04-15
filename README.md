@@ -1,4 +1,4 @@
-# 危ない通りの口コミを投稿して安全マップ作成！「SafetycarGmaps」
+# 危ない通りの口コミをチェック！「SafetycarGmaps」
 https://safetycar-gmaps.herokuapp.com/
 
 [![Image from Gyazo](https://i.gyazo.com/02b2f5757e9ef61dcb3476f1c42a300e.gif)](https://gyazo.com/02b2f5757e9ef61dcb3476f1c42a300e)
