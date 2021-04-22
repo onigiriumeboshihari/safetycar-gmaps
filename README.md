@@ -1,11 +1,13 @@
 # 危ない通りの口コミをチェック！
 # 「SafetycarGmaps」
-https://safetycar-gmaps.herokuapp.com/
+ローカル環境での動作確認済み
 
 [![Image from Gyazo](https://i.gyazo.com/c6c6b141281d1d34140c9dfe7c055ebe.gif)](https://gyazo.com/c6c6b141281d1d34140c9dfe7c055ebe)
 
 
 ## どんなアプリ？
+
+**お子様を幼稚園へ送迎するなど、交通事故のリスク対策のために「通りの口コミ」がチェックできるアプリです！**
 
 まずはマップ上の投稿をチェック！
 
@@ -13,11 +15,10 @@ https://safetycar-gmaps.herokuapp.com/
 
 このアプリでは、車の流れのスピードや、大型車両の通行量をみんなで投稿できます。
 
-**お子様を幼稚園へ送迎するなど、交通事故のリスク対策のために「通りの口コミ」がチェックできるアプリです！**
-
-
 
 ## 何が便利？
+
+**毎日の通勤で感じる「通りの印象」をスピーディにつかみ、安全なルートのカスタマイズをサポートします！**
 
 車の流れが遅い通りをチェック!
 
@@ -26,7 +27,6 @@ https://safetycar-gmaps.herokuapp.com/
 GoogleMapsや、Honda「SAFETY MAP」ほど膨大なデータはありませんが、
 
 **毎日の通勤で感じる「通りの印象」をスピーディにつかみ、安全なルートのカスタマイズをサポートします！**
-
 
 ## 使える機能
 
@@ -52,43 +52,41 @@ GoogleMapsや、Honda「SAFETY MAP」ほど膨大なデータはありません�
 # 4. ユーザープロフィールから過去の口コミをまとめてチェック！
 [![Image from Gyazo](https://i.gyazo.com/39d0c656ab7cd7ffb88c6b0e996a7775.jpg)](https://gyazo.com/39d0c656ab7cd7ffb88c6b0e996a7775)
 
-#### テスト
+##### テスト
 
 ```
-ID/Pass
+アクセス認証
 ID: SafetycarGmaps
 Pass: 34824
-テスト用アカウント等
 ```
 ```
-投稿者用
-メールアドレス: neko@email
+投稿者用アカウント
+メールアドレス: taro@email
 パスワード: testpass
 ```
 ```
-閲覧者用
-メールアドレス名: shirokuma@email
+閲覧者用アカウント
+メールアドレス名: hanako@email
 パスワード: testpass
 ```
 
 ##### インストール
 
 ```
-$ git clone https://github.com/onigiriumeboshihari/safetycar-gmaps.git
-$ cd safetycar-gmaps
-$ bundle install
-$ rails db:create
-$ rails db:migrate
-$ rails s
+% git clone https://github.com/onigiriumeboshihari/safetycar-gmaps.git
+% cd safetycar-gmaps
+% bundle install
+% rails db:create
+% rails db:migrate
+% rails s
 http:localhost:3000
 ```
-
 
 ###### 開発環境
 
 - VScode
 - Ruby 2.6.5
-- Rails 6.0.3.4
+- Rails 6.0.0
 - mysql2 0.5.3
 - JavaScript
 - gem 3.0.3
