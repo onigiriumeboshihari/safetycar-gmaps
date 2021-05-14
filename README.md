@@ -1,6 +1,6 @@
 # 危ない通りの口コミをチェック！
 # 「SafetycarGmaps」
-ローカル環境での動作確認済み
+https://safetycar-gmaps.herokuapp.com/
 
 [![Image from Gyazo](https://i.gyazo.com/c6c6b141281d1d34140c9dfe7c055ebe.gif)](https://gyazo.com/c6c6b141281d1d34140c9dfe7c055ebe)
 
