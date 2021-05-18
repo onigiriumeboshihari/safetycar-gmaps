@@ -2,8 +2,6 @@
 # 「SafetycarGmaps」
 https://safetycar-gmaps.herokuapp.com/
 
-#### テスト
-
 ```
 アクセス認証
 ID: SafetycarGmaps
