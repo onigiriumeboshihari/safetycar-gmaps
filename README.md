@@ -2,6 +2,24 @@
 # 「SafetycarGmaps」
 https://safetycar-gmaps.herokuapp.com/
 
+#### テスト
+
+```
+アクセス認証
+ID: SafetycarGmaps
+Pass: 34824
+```
+```
+投稿者用アカウント
+メールアドレス: taro@email
+パスワード: testpass
+```
+```
+閲覧者用アカウント
+メールアドレス名: hanako@email
+パスワード: testpass
+```
+
 [![Image from Gyazo](https://i.gyazo.com/c6c6b141281d1d34140c9dfe7c055ebe.gif)](https://gyazo.com/c6c6b141281d1d34140c9dfe7c055ebe)
 
 
@@ -51,24 +69,6 @@ GoogleMapsや、Honda「SAFETY MAP」ほど膨大なデータはありません�
 [![Image from Gyazo](https://i.gyazo.com/6bd8a6fd4456f7829a09b606c2babc5a.gif)](https://gyazo.com/6bd8a6fd4456f7829a09b606c2babc5a)
 # 4. ユーザープロフィールから過去の口コミをまとめてチェック！
 [![Image from Gyazo](https://i.gyazo.com/39d0c656ab7cd7ffb88c6b0e996a7775.jpg)](https://gyazo.com/39d0c656ab7cd7ffb88c6b0e996a7775)
-
-#### テスト
-
-```
-アクセス認証
-ID: SafetycarGmaps
-Pass: 34824
-```
-```
-投稿者用アカウント
-メールアドレス: taro@email
-パスワード: testpass
-```
-```
-閲覧者用アカウント
-メールアドレス名: hanako@email
-パスワード: testpass
-```
 
 ##### インストール
 
