@@ -1,5 +1,4 @@
-# 危ない通りの口コミをチェック！
-# 「SafetycarGmaps」
+# オリジナルアプリで危ない通りの口コミをチェック！
 https://safetycar-gmaps.herokuapp.com/
 
 ```
