@@ -72,6 +72,7 @@ http:localhost:3000
 
 ###### 開発環境
 
+```
 - VScode
 - Ruby 2.6.5
 - Rails 6.0.0
@@ -79,6 +80,7 @@ http:localhost:3000
 - JavaScript
 - gem 3.0.3
 - heroku 7.46.0
+```
 
 ##### DB 設計
 
