@@ -3,7 +3,7 @@ https://safetycar-gmaps.herokuapp.com/
 
 
 ```
-投稿者用アカウント
+ユーザーアカウント
 メールアドレス: taro@email
 パスワード: testpass
 ```
