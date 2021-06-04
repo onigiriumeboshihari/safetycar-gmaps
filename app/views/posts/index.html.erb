@@ -38,13 +38,13 @@
   });
 
     const box = '<div class="box">' +
-              '<%= link_to "/posts/3" do %>' +
+              '<%= link_to "/posts/24" do %>' +
                 '<div class="card__img">' +
                   '<%= "sample image" %>' +
                 '<div class="place">' +
-                  '<%= "国会議事堂前通り" %>' +
+                  '<%= "龍地通り" %>' +
                 '<div class="time">' +
-                  '<%= "13:00" %>' +
+                  '<%= "平日15:00" %>' +
               '<% end %>'
               '</div>'
   const infowindow = new google.maps.InfoWindow({
@@ -60,13 +60,13 @@
   });
 
   const box2 = '<div class="box2">' +
-              '<%= link_to "/posts/1" do %>' +
+              '<%= link_to "/posts/14" do %>' +
                 '<div class="card__img">' +
                   '<%= "sample image" %>' +
                 '<div class="place">' +
-                  '<%= "皇居外苑通り" %>' +
+                  '<%= "公園通り" %>' +
                 '<div class="time">' +
-                  '<%= "8:15" %>' +
+                  '<%= "休日6:00" %>' +
               '<% end %>'
               '</div>'
   const infowindow2 = new google.maps.InfoWindow({
@@ -85,11 +85,11 @@
   const box3 = '<div class="box3">' +
               '<%= link_to "/posts/4" do %>' +
                 '<div class="card__img">' +
-                  '<%= "sample image" %>' +
+                  '<%= image_tag "赤坂通り.jpeg" %>' +
                 '<div class="place">' +
-                  '<%= "鉄砲洲通" %>' +
+                  '<%= "赤坂通り" %>' +
                 '<div class="time">' +
-                  '<%= "18:15" %>' +
+                  '<%= "平日14:00" %>' +
               '<% end %>'
               '</div>'
   const infowindow3 = new google.maps.InfoWindow({
