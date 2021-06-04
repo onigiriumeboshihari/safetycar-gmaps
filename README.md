@@ -1,11 +1,7 @@
 # オリジナルアプリで危ない通りの口コミをチェック！
 https://safetycar-gmaps.herokuapp.com/
 
-```
-アクセス認証
-ID: SafetycarGmaps
-Pass: 34824
-```
+
 ```
 投稿者用アカウント
 メールアドレス: taro@email
