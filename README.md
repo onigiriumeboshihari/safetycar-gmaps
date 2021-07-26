@@ -58,6 +58,13 @@ GoogleMapsや、Honda「SAFETY MAP」ほど膨大なデータはありません�
 # 4. ユーザープロフィールから過去の口コミをまとめてチェック！
 [![Image from Gyazo](https://i.gyazo.com/39d0c656ab7cd7ffb88c6b0e996a7775.jpg)](https://gyazo.com/39d0c656ab7cd7ffb88c6b0e996a7775)
 
+##### 課題
+
+```
+- ユーザー情報を修正できない点
+- 地図に開発中の表示が出る点
+```
+
 ##### インストール
 
 ```
