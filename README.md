@@ -45,7 +45,7 @@ GoogleMapsや、Honda「SAFETY MAP」ほど膨大なデータはありません�
 | ユーザー詳細      | さらにユーザーのプロフィールから過去の口コミをまとめてチェック！              |
 | 投稿を編集・削除 | 撮り直しの画像をアップデート！                             |
 
-[要件定義のスプレッドシートからさらに詳しくチェックできます！](https://docs.google.com/spreadsheets/d/1NuQulUwFqS7QxpFDnE5fzaExEepKpEp_-1yTyHN6ypo/edit?pli=1#gid=282075926)
+[要件定義をさらに詳しくチェック！](https://docs.google.com/spreadsheets/d/1NuQulUwFqS7QxpFDnE5fzaExEepKpEp_-1yTyHN6ypo/edit?pli=1#gid=282075926)
 
 ## 利用方法
 
