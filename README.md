@@ -28,7 +28,7 @@ https://safetycar-gmaps.herokuapp.com/
 
 車の流れが遅い通りをチェック!
 
-さらに大型車両が少ない通りをチェックできます！
+さらに大型車両が少ない通りをチェックできます。
 
 GoogleMapsや、Honda「SAFETY MAP」ほど膨大なデータはありませんが、
 
