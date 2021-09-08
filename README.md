@@ -49,7 +49,7 @@ GoogleMapsや、Honda「SAFETY MAP」ほど膨大なデータはありません�
 
 ## 利用方法
 
-# 1. トップページ右上「Sign Up」からサインアップ!
+# 1. トップページ右上「Sign Up」からサインアップ！
 [![Image from Gyazo](https://i.gyazo.com/ae42eb1de52ea0bfe9c02e6bf4b67ea2.png)](https://gyazo.com/ae42eb1de52ea0bfe9c02e6bf4b67ea2)
 # 2. 「Let's 投稿」から口コミ投稿!
 [![Image from Gyazo](https://i.gyazo.com/f3bffb8c7039eba49c535b859fc14592.png)](https://gyazo.com/f3bffb8c7039eba49c535b859fc14592)
